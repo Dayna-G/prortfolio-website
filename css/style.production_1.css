@@ -42,8 +42,7 @@ p{
     color: var(--text);
 }
 h1{
-    font-size: 30px;
-    font-size: var(--bold-font);
+    font-size: 70px;
     color: var(--text);
 }
 h2{

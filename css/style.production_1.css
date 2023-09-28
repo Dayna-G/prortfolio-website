@@ -43,6 +43,7 @@ p{
 }
 h1{
     font-size: 70px;
+    font-weight: var(--bold-font);
     color: var(--text);
 }
 h2{

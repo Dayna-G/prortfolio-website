@@ -12,6 +12,9 @@ text (#fff) white
 main
 secondary
 */
+#button{
+    text-align: center;
+}
 a {
     color: #357b70;
   }
@@ -49,7 +52,9 @@ h3{
 }
 .button{
     border: none;
-    display: inline-block;
+    margin: auto;
+    align-self: center;
+    display: inline-table;
     font-family: inherit;
     background-color: #357b70;
     color: #fff;
@@ -165,7 +170,9 @@ a:active{
             flex-direction: column;
     text-align: center;
 }
-
+.footer{
+    align-content: center;
+}
 @supports (display:grid){
 .grid{
 display: -ms-grid;

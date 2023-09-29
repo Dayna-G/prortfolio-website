@@ -12,6 +12,9 @@ text (#fff) white
 main
 secondary
 */
+#button{
+    text-align: center;
+}
 a {
     color: #357b70;
   }
